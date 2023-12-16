@@ -144,12 +144,14 @@ Other
 - Streetskulls and Rai Can for his CJ's outfit.
 - Trolencio911 and losmisteriosdelgtasa for their video of how to dress as their CJ.
 - Bellik28, AlexRed295, SaacK, Huggito, AnotherRandomGuy and Lautiz for support.
+
 Port
 - stayfrosty543
 - Big Bob or Big BobV2
 - psxhax 
 - modded warfare 
 - ps22ps4 https://github.com/Nazky/PS22PS4-GUI/releases
+
 Mods
 - Laevateinn by Ryosuke
 - Float Gun by Ryosuke
