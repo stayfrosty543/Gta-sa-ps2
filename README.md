@@ -21,12 +21,15 @@ Other instructions like how to use mods are explained in-game.
 --------------------------------------------------
 
 INSTALLATION
+
 PS2
 - burn iso to disk or put the iso file on a usb 
 - ftp to hdd
+
 ps3 
 - run iso file through ps2 classic placeholder
 - launch the game from xmb app home 
+
 PS4
 - run Goldhen from browser or home host or esp 
 - install fpkg from dev options 
@@ -174,3 +177,14 @@ Mods
 - Walk on water by SameShine2k18
 - Enter as Passenger by unknown author.
 - Carmageddon, Super Star, Experimental First Person and It's raining peds by Kaizo M
+
+Language 
+- To change to your specific language you need either poweriso, apache3 and memento patch, ps22ps4 
+- When using poweriso extract the iso to a parent folder and navigate to the text folder 
+- with apache3 just open the iso and navigate to the text folder 
+- delete the AMERICAN.GXT 
+- with poweriso add the language of your choice renamed to AMERICAN.GXT and make iso using files and folders 
+- with apache3 right click AMERICAN.GXT and replace file make sure to uncheck updated Toc and check in ignore file size differences 
+- if you used apache3 you can now package the iso using ps22ps4 or burn it to a disk for ps2 
+- if you used power iso save the file and patch it with memento patch or the game will crash 
+- sometimes the american.gxt is uppercase sometimes it is not and seems to be case sensitive im not sure how to fix but just make sure it matches the one that came from your original file 
