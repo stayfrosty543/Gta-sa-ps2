@@ -21,10 +21,20 @@ Other instructions like how to use mods are explained in-game.
 --------------------------------------------------
 
 INSTALLATION
-- run hen and install fpkg 
+PS2
+- burn iso to disk or put the iso file on a usb 
+- ftp to hdd
+ps3 
+- run iso file through ps2 classic placeholder
+- launch the game from xmb app home 
+PS4
+- run Goldhen from browser or home host or esp 
+- install fpkg from dev options 
+- make sure to run Goldhen after every reboot 
+
 
 --------------------------------------------------
-CHANGELOG FOR PS2 menu
+CHANGELOG FOR PS2/3/4
 
 v1.0
 April 2nd, 2021
@@ -106,6 +116,10 @@ October 9, 2022
 - Optimized processes such as better view when getting into different vehicles, and the action of getting into a vehicle together and separately.
 - Added 2 Player Deluxe features, such as automatic teleportation when players are separated (70mts in Project Kaizo) and automatic vehicle attachment (same activation as previous versions).
 - Fixed that you could open the mods menu and activate a respawn point at the same time.
+
+v2.2 A1.0.0
+December 15, 2023
+- Port to fpkg for use on Ps4 5.05, 6.72, 7.xx, 9.00 
 --------------------------------------------------
 
 ----------------------------------------------
@@ -133,6 +147,9 @@ Other
 Port
 - stayfrosty543
 - Big Bob or Big BobV2
+- psxhax 
+- modded warfare 
+- ps22ps4 https://github.com/Nazky/PS22PS4-GUI/releases
 Mods
 - Laevateinn by Ryosuke
 - Float Gun by Ryosuke
